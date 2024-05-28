@@ -1,5 +1,5 @@
-# integradora1
-slash practica 02
+# integradora 1
+## slash practica 02
 practica de clase para comenzar a utilizar github como herramientas para el desarrollo colaborativo ,control de veraciones y documenbtos del proywecto integrador de la asignatura 
 comandos basicos para el maquetado
 # encabezados (headings)
